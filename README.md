@@ -1,6 +1,6 @@
 # MAZE Granular ARP MIDI controller
 
-**The winner project in "MaKE IT" innovation grants project 2023.**
+🥇 **The winner project in "MaKE IT" innovation grants project 2023.**
 
 I demonstrate how this works in [this video](https://youtu.be/gfWn8kauTtI). I explain the experience and the roots of the idea in my [blog](https://notdevkey.github.io/maze-midi/). We also got in on our local [newsletter](https://www.ventasbalss.lv/zinas/sabiedriba/49566-vatp-komanda-izveido-muzikas-instrumentu-video) :D
 
